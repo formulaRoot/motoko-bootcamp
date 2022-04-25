@@ -144,7 +144,7 @@ In Motoko, there is a type called <a href="https://smartcontracts.org/docs/base-
     </details>
 	<br/>
 
-Copy and paste the following actor declation and try deploying the actor.
+Copy and paste the following actor declaration and try deploying the actor.
 
 ```
 actor {
