@@ -174,7 +174,7 @@ actor {
 };
 ```
 
-In Motoko there are also the types : **Nat 16**, **Nat 32** and **Nat 64**. <br/> Those are similar types to **Nat 8** expect they use respectively 16-bits, 32-bits and 64-bits, so they can represent way larger numbers.
+In Motoko there are also the types : **Nat 16**, **Nat 32** and **Nat 64**. <br/> Those are similar types to **Nat 8** with the expception that they  respectively use 16-bits, 32-bits and 64-bits, so they can represent way larger numbers.
 
  <details>
         <summary style="color:green"> 🤔 What is the maximum number represented by Nat32 ?</summary>
